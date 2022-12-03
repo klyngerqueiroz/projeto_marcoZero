@@ -98,22 +98,14 @@ main{
 .rodape{
     
     padding: 10px;
-    background-color: rgb(68, 69, 70);
     display: flex;
    
 }
-#img-footer{
-    margin-top: 20;
-    width: 120px;
-   
-}
+
 span{
     color: white;
     margin-top: 20px;
     font-size: small;
-    
-   
-
 }
 .rodape ul{
     display: flex;
