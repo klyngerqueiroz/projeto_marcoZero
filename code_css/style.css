@@ -103,8 +103,14 @@ footer{
     align-items: center;
     background-color: rgb(73, 64, 64);
 }
+span{
+    color:white;
+}
 
 ul{
     display: flex;
     gap: 1.5em;
+}
+ul li{
+    color:white;
 }
