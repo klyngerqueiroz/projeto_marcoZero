@@ -95,28 +95,16 @@ main{
     margin: 10px;
     color: white;
 }
-.rodape{
-    
-    padding: 10px;
+footer{
+    border: 1px solid black;
+    padding: 0.5em;
     display: flex;
-   
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(73, 64, 64);
 }
 
-span{
-    color: white;
-    margin-top: 20px;
-    font-size: small;
-}
-.rodape ul{
+ul{
     display: flex;
-    margin-left: 680px;
-   
-   
-}
-.rodape ul li{
-    padding: 10px;
-    color: white;
-    
-   
-   
+    gap: 1.5em;
 }
